@@ -1,0 +1,10 @@
+{
+  "*": {
+    "type": "page"
+  },
+  "index": "Homepage",
+  "docs": {
+    "title": "Docs",
+    "type": "page"
+  }
+}
